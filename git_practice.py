@@ -9,3 +9,8 @@ for name in names:
     print(name)
     if name != "Kito":
         print("Kito's name cannot be found")
+
+
+    if name in names == "Mwenda":
+        print(name)
+        
